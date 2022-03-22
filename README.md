@@ -35,6 +35,11 @@ ___
 
 ### My YouTube videos:
 <!-- YOUTUBE:START -->
+- [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=DBtpmwPW2gg)
+- [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=u9IQ90fao3U)
+- [Як ви там? | Бавимось у Valheim | Ukraine](https://www.youtube.com/watch?v=ML1VM7bFy8o)
+- [Як ви там? | Бавимось у Valheim | Ukraine](https://www.youtube.com/watch?v=GDpkW0DgCh4)
+- [&quot;КРУТИМО&quot; НАЙКРАЩОГО ХЛОПЦЯ ТЕЙВАТУ | GENSHIN IMPACT](https://www.youtube.com/watch?v=Ttmqg3_e3mk)
 <!-- YOUTUBE:END -->
 
 
