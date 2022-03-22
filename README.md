@@ -42,6 +42,8 @@ ___
 - [&quot;КРУТИМО&quot; НАЙКРАЩОГО ХЛОПЦЯ ТЕЙВАТУ | GENSHIN IMPACT](https://www.youtube.com/watch?v=Ttmqg3_e3mk)
 <!-- YOUTUBE:END -->
 
+<br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INDMops)]
 
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
