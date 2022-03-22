@@ -45,10 +45,11 @@ ___
 <br>
 <details>
   <summary>📝 Statistics:</summary>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
+  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
   <br>
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical"/>
+  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical"/>
 </details>
+
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
 [instagram]: https://www.instagram.com/indmops/
