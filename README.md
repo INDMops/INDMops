@@ -28,7 +28,19 @@ ___
 ___
 
 ### Project over which I work now
+At the moment (since 19.03.2022) I am engaged in translation of CrossCode game into Ukrainian. My role in the team is an interpreter.
+<br>
+<details>
+  <summary>🖼️Screenshots of our work::</summary>
+  <img width="85%" alt="General menu game" src="https://media.discordapp.net/attachments/937796754026414110/955548044043112459/unknown.png">
+  <img width="85%" alt="Options menu game" src="https://media.discordapp.net/attachments/937796754026414110/955548044257034260/unknown.png">
+  <img width="85%" alt="Dialog 1" src="https://media.discordapp.net/attachments/937796754026414110/955455699461226506/unknown.png">
+  <img width="85%" alt="Dialog 2" src="https://media.discordapp.net/attachments/937796754026414110/955455697892556830/unknown.png">
+</details>
 
+<br>
+
+[<img alt="Стан перекладу" src="https://weblate.openkrosskod.org/widgets/crosscode/uk/svg-badge.svg">][trans]
 
 <br>
 <br>
@@ -45,7 +57,7 @@ ___
 <br>
 <details>
   <summary>📝 Statistics:</summary>
-  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
+  <img style="border-radius: 100px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
   <br>
   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical"/>
 </details>
@@ -54,3 +66,5 @@ ___
 [twitter]: https://twitter.com/IndiMops
 [instagram]: https://www.instagram.com/indmops/
 [discord]: https://discord.gg/ujZTbpfys9
+[trans]: https://weblate.openkrosskod.org/engage/crosscode/uk/
+[up]: https://github.com/INDMops/#project-over-which-i-work-now
