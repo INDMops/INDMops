@@ -43,9 +43,9 @@ ___
 <!-- YOUTUBE:END -->
 
 <br>
-<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical" />
-<br>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
+<br>
+<img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical"/>
 
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
