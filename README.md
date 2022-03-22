@@ -43,7 +43,7 @@ ___
 <!-- YOUTUBE:END -->
 
 <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INDMops)]
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=INDMops)
 
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
