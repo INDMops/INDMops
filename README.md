@@ -38,11 +38,15 @@ At the moment (since 19.03.2022) I am engaged in translation of CrossCode game i
   <img width="85%" alt="Dialog 2" src="https://media.discordapp.net/attachments/937796754026414110/955455697892556830/unknown.png">
 </details>
 
+Translation status can be seen in this badge. 
+
+[<img alig="left" alt="Стан перекладу" src="https://weblate.openkrosskod.org/widgets/crosscode/uk/svg-badge.svg">][trans]
+
 <br>
 
-[<img alt="Стан перекладу" src="https://weblate.openkrosskod.org/widgets/crosscode/uk/svg-badge.svg">][trans]
+More about the status of the translation You can view by clicking on the badge or go here: https://weblate.openkrosskod.org/languages/uk/crosscode/<br>
+You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the mod is still being developed. So follow it.
 
-<br>
 <br>
 
 ### My YouTube videos:
