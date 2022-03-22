@@ -1,6 +1,6 @@
 ### Hello ✋ I'm called Bogdan!
 ![](https://komarev.com/ghpvc/?username=INDMops&color=orange&style=plastic)
-## I'm still a beginner in the programming
+## About me:
 - 💮I'm translating games and manga
 - 🧩I love to find out, something interesting in programming
 - 🏕️Love to travel and discover something new
