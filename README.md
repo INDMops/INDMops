@@ -36,6 +36,7 @@ At the moment (since 19.03.2022) I am engaged in translation of CrossCode game i
   <img width="85%" alt="Options menu game" src="https://media.discordapp.net/attachments/937796754026414110/955548044257034260/unknown.png">
   <img width="85%" alt="Dialog 1" src="https://media.discordapp.net/attachments/937796754026414110/955455699461226506/unknown.png">
   <img width="85%" alt="Dialog 2" src="https://media.discordapp.net/attachments/937796754026414110/955455697892556830/unknown.png">
+  <img width='85%" alt="Dialog 3" src="https://media.discordapp.net/attachments/939569454390603837/958445277847638096/unknown.png?">
 </details>
 
 Translation status can be seen in this badge. 
