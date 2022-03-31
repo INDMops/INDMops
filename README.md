@@ -70,6 +70,6 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
 [instagram]: https://www.instagram.com/indmops/
-[discord]: https://discord.gg/ujZTbpfys9
+[discord]: https://discord.com/users/734082410504781854
 [trans]: https://weblate.openkrosskod.org/engage/crosscode/uk/
 [up]: https://github.com/INDMops/#project-over-which-i-work-now
