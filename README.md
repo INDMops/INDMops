@@ -52,11 +52,11 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
 
 ### My YouTube videos:
 <!-- YOUTUBE:START -->
+- [Secret chest](https://www.youtube.com/watch?v=9sjDo-J7zGk)
 - [Як ви там? | Бавимось у Genshin Impact | Ukraine](https://www.youtube.com/watch?v=A_QTiMEfrU8)
 - [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=ZeLVYG_N5vo)
 - [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=DBtpmwPW2gg)
 - [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=u9IQ90fao3U)
-- [Як ви там? | Бавимось у Valheim | Ukraine](https://www.youtube.com/watch?v=ML1VM7bFy8o)
 <!-- YOUTUBE:END -->
 
 <br>
