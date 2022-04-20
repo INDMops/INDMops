@@ -55,8 +55,8 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
 - [Як ви там? | Муштруєм Аяку | Genshin Impact | Ukraine](https://www.youtube.com/watch?v=Q8QaVajVg2Y)
 - [Secret chest](https://www.youtube.com/watch?v=9sjDo-J7zGk)
 - [Як ви там? | Бавимось у Genshin Impact | Ukraine](https://www.youtube.com/watch?v=A_QTiMEfrU8)
-- [Як ви там? | Муштруєм Аяку | Genshin Impact | Ukraine](https://www.youtube.com/watch?v=iQ7zTgxxsqo)
 - [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=ZeLVYG_N5vo)
+- [Як ви там? | Бавимось у Tomb Raider | Ukraine](https://www.youtube.com/watch?v=DBtpmwPW2gg)
 <!-- YOUTUBE:END -->
 
 <br>
