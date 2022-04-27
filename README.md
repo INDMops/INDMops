@@ -62,9 +62,9 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
 <br>
 <details>
   <summary>📝 Statistics:</summary>
-  <img style="border-radius: 100px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=INDMops&show_icons=true&theme=radical" />
+  <img style="border-radius: 100px" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=IndiMops&show_icons=true&theme=radical" />
   <br>
-  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=INDmops&layout=compact&theme=radical"/>
+  <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiMops&layout=compact&theme=radical"/>
 </details>
 
 [youtube]: https://www.youtube.com/c/IndiMops
