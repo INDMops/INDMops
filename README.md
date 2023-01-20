@@ -52,11 +52,11 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
 
 ### My YouTube videos:
 <!-- YOUTUBE:START -->
+- [Завдання &quot;Старі друзі&quot; українською](https://www.youtube.com/watch?v=5WoKAeh3ja8)
 - [Випадкова подія GTA Online | Частина табельної зброї](https://www.youtube.com/watch?v=KCQIyqSHuRQ)
 - [Man overboard!](https://www.youtube.com/watch?v=oNaU9LAzoDo)
 - [Як ви там? | CJ завітав до нас| GTA: San Andreas | Ukraine](https://www.youtube.com/watch?v=KnWlloAFrwg)
 - [Як ви там? | Муштруєм Аяку | Genshin Impact | Ukraine](https://www.youtube.com/watch?v=8at4NsqPAFk)
-- [Як ви там? | Муштруєм Аяку | Genshin Impact | Ukraine](https://www.youtube.com/watch?v=iQ7zTgxxsqo)
 <!-- YOUTUBE:END -->
 
 <br>
