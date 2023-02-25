@@ -25,39 +25,7 @@ ___
 <img align="left" alt="Visual Studio Code" width="26" src="https://img.icons8.com/color/480/000000/visual-studio-code-2019.png">
 <br>
 
-___
 
-### Project over which I work now
-At the moment (since 19.03.2022) I am engaged in translation of CrossCode game into Ukrainian. My role in the team is an interpreter.
-<br>
-<details>
-  <summary>🖼️Screenshots of our work::</summary>
-  <img width="85%" alt="General menu game" src="https://media.discordapp.net/attachments/937796754026414110/955548044043112459/unknown.png">
-  <img width="85%" alt="Options menu game" src="https://media.discordapp.net/attachments/937796754026414110/955548044257034260/unknown.png">
-  <img width="85%" alt="Dialog 1" src="https://media.discordapp.net/attachments/937796754026414110/955455699461226506/unknown.png">
-  <img width="85%" alt="Dialog 2" src="https://media.discordapp.net/attachments/937796754026414110/955455697892556830/unknown.png">
-  <img width="85%" alt="Dialog 3" src="https://media.discordapp.net/attachments/939569454390603837/958445277847638096/unknown.png?">
-</details>
-
-Translation status can be seen in this badge. 
-
-[<img alig="left" alt="Стан перекладу" src="https://weblate.openkrosskod.org/widgets/crosscode/uk/svg-badge.svg">][trans]
-
-<br>
-
-More about the status of the translation You can view by clicking on the badge or go here: https://weblate.openkrosskod.org/languages/uk/crosscode/<br>
-You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the mod is still being developed. So follow it.
-
-<br>
-
-### My YouTube videos:
-<!-- YOUTUBE:START -->
-- [Завдання &quot;Старі друзі&quot; українською](https://www.youtube.com/watch?v=5WoKAeh3ja8)
-- [Випадкова подія GTA Online | Частина табельної зброї](https://www.youtube.com/watch?v=KCQIyqSHuRQ)
-- [Man overboard!](https://www.youtube.com/watch?v=oNaU9LAzoDo)
-- [Як ви там? | CJ завітав до нас| GTA: San Andreas | Ukraine](https://www.youtube.com/watch?v=KnWlloAFrwg)
-- [Як ви там? | Муштруєм Аяку | Genshin Impact | Ukraine](https://www.youtube.com/watch?v=8at4NsqPAFk)
-<!-- YOUTUBE:END -->
 
 <br>
 <details>
@@ -66,6 +34,10 @@ You can download the mod [here](https://github.com/INDMops/crosscode-ua) now the
   <br>
   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiMops&layout=compact&theme=radical"/>
 </details>
+
+### What am I doing now?
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/734082410504781854)](https://discord.com/users/734082410504781854)
 
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
