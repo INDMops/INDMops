@@ -35,9 +35,6 @@ ___
   <img  alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IndiMops&layout=compact&theme=radical"/>
 </details>
 
-### What am I doing now?
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/734082410504781854)](https://discord.com/users/734082410504781854)
 
 [youtube]: https://www.youtube.com/c/IndiMops
 [twitter]: https://twitter.com/IndiMops
