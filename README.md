@@ -7,10 +7,10 @@
 
 ### Follow me:
 
-[<img align="left" alt="INDMops YouTube" width="20px" src="https://cdn.discordapp.com/attachments/939569454390603837/955786475604160592/youtube.png" />][youtube]
-[<img align="left" alt="Twitter INDMops" width="20px" src="https://cdn.discordapp.com/attachments/939569454390603837/955788911567843368/twitter.png">][twitter]
-[<img align="left" alt="Instagram INDMops" width="20px" src="https://media.discordapp.net/attachments/939569454390603837/955792728321560596/free-icon-font-instagram-6422200.png">][instagram]
-[<img align="left" alt="Discord server INDMops" width="20px" src="https://media.discordapp.net/attachments/939569454390603837/955793288382783498/free-icon-font-discord-6422197.png">][discord]
+[<img align="left" alt="INDMops YouTube" width="40px" src="https://media.discordapp.net/attachments/939569454390603837/955786475604160592/youtube.png?ex=661e5d85&is=660be885&hm=9d10b56063e243a210960c933c6f09eb257fd1b6ed16a918c86496d108ae9b61&=&format=webp&quality=lossless" />][youtube]
+[<img align="left" alt="Twitter INDMops" width="40px" src="https://cdn.discordapp.com/attachments/939569454390603837/955788911567843368/twitter.png?ex=661e5fca&is=660beaca&hm=089c321421801bb586e53a66c3ebc0aa09cab50d4da95c4c1bff7bd8c4fe8398&">][twitter]
+[<img align="left" alt="Instagram INDMops" width="40px" src="https://cdn.discordapp.com/attachments/939569454390603837/955792728321560596/free-icon-font-instagram-6422200.png?ex=661e6358&is=660bee58&hm=c8574d57ab70ae76e19a437702ca4a9e1b3e15234aa2e779ce8cfd937d6a69ab&">][instagram]
+[<img align="left" alt="Discord server INDMops" width="40px" src="https://media.discordapp.net/attachments/939569454390603837/955793288382783498/free-icon-font-discord-6422197.png?ex=661e63dd&is=660beedd&hm=db64908ad910752a158719c409d51f84cd6e62d6c9c2ef5bdc76544b500aefa7&=&format=webp&quality=lossless">][discord]
 <br>
 
 ___
